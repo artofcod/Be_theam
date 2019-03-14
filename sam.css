@@ -1,0 +1,228 @@
+*{
+	text-decoration: none;
+}
+@media screen and (max-width: 757px){
+	.text{
+		display: none;
+	}
+	
+}
+@media screen and (max-width:757px){
+	.cen{
+		margin:auto;
+	}
+	.top{
+		margin-top: 10px;
+	}
+	
+    .logo-bg-gray{
+    	color:#79767f;
+    }
+} 
+@media screen and (min-width: 758px) {
+	.bg2{
+	background-color:#282b32;
+    }
+    .logo-bg-white{
+    	color: white;
+    }
+ 
+	.font2{
+	font-size: 42px;
+	font-weight: 100px;
+   }
+   .font4{
+	font-size: 21px;
+    }
+    .font5{
+      font-size: 14px;
+    }
+    .font6{
+    	font-size: 42px;
+    }
+    .font7{
+    	font-size: 90px;
+    }
+    .font8{
+    	font-size: 30px;
+
+    }
+    .font9{
+    	font-size: 42px;
+    }
+    .font10{
+    	font-size: 30px;
+    }
+    .font11{
+    	font-size: 16px;
+    }
+     .font12{
+    	font-size: 30px;
+    }
+    .font14{
+    	font-size: 14px;
+    }
+    .width1{
+    	margin-left: 80px;
+    	margin-right: 80px;
+    }
+    .imgh{
+    	height: 250px;
+    }
+    .show{
+    	display: block;
+    }
+}
+@media screen and ( max-width: 757px) {
+   .font2{
+	font-size: 19px;
+
+	}
+	.font3{
+		font-size: 7px;
+	}
+	.margin1{
+		margin-bottom: 55px;
+	}
+	.font4{
+		font-size: 16px;
+	}
+	.font5{
+      font-size: 12px;
+    }
+    .font6{
+    	font-size: 34px;
+    }
+    .font7{
+    	font-size: 70px;
+    }
+    .font8{
+    	font-size:23px;
+
+    }
+    .font9{
+       font-size: 34px;
+    }
+    .font10{
+    	font-size: 23px;
+    }
+    .font11{
+       font-size: 13px;
+    }
+    .font12{
+    	font-size: 23px;
+    }
+    .font13{
+    	font-size: 14px;
+    }
+    .font14{
+    	font-size: 14px;
+    }
+
+    .imgh{
+    	height:250px;
+    	width: 1200px;
+    }
+    .show{
+    	display: none;
+    }
+
+
+}
+
+
+body{
+font-family: 'Roboto', sans-serif;
+
+}
+
+
+.hero-image{
+	background-image: url("myimage/home_betheme_slider_slide1.jpg");
+	height: 100vh;
+	background-size: cover;
+	 background-position: center; 
+	 width: 100%;
+	 background-repeat: no-repeat;
+	 position: relative;
+}
+.row1{
+	position: relative;
+}
+.border{
+  border:2px solid black;
+}
+.h{
+	height: 45px;
+}
+.font{
+	font-size: 25px;
+}
+.center{
+   position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50% ,-50%);
+}
+.font1{
+	font-size: 50px;
+
+}
+.margin-b{
+	margin-bottom: 90px;
+}
+.padding{
+	padding-bottom: 90px;
+}
+.bg{
+	background-color: #f2f3f5;
+}
+.section-img{
+background-image: url("myimage/home_betheme_sectionbg1.png");
+      height: 250px;
+	  background-size: cover;
+	 background-position: center; 
+	 width: 100%;
+	 background-repeat: no-repeat;
+}
+.portfolio-h{
+	height: 155px;
+	background-color: #0094ea;
+}
+.style{
+	height: 185px;
+}
+.margin-t{
+	margin-top: 100px;
+}
+.hover{
+	color:#0094ea;
+}
+.hover:hover{
+	background-color: #0094ea;
+	color: white;
+	text-decoration: none;
+}
+.text-primary{
+	text-decoration: none;
+}
+.bg1{
+	background-color: #41434f;
+}
+ .abb a:hover{
+  color: white;
+  text-decoration: none;
+}
+.san{
+   color: white;
+}
+.h1{
+	height: 90px;
+	background-color: #24272e;
+}
+.h2{
+	height: 50px;
+}
+.h3{
+	margin-top: 80px;
+}
